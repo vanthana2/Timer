@@ -1,0 +1,60 @@
+body{
+    background-color: #f0f3fa;
+}
+
+
+.giveaway-container{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+
+img{
+    width: 440px;
+    height: 340px;
+    gap: 20px;
+}
+
+
+.countdown #days{
+    border: 2px solid black;
+    background-color: #223254;
+    color: white;
+    
+}
+
+.countdown #hours{
+    border: 2px solid black;
+    background-color: #223254;
+    color: white;
+}
+
+.countdown #minutes{
+    border: 2px solid black;
+    background-color: #223254;
+    color: white;
+}
+
+.countdown #seconds{
+    border: 2px solid black;
+    background-color: #223254;
+    color: white;
+}
+
+h1{
+    color: #4e86c6;
+    font-family:'Times New Roman', Times, serif;
+    font-size: x-large;
+}
+
+h3{
+    color: #202f5e;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    letter-spacing: 5px;
+}
+
+p{
+    color: #8d93a0;
+}
